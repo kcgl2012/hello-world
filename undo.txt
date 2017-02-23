@@ -1,0 +1,2 @@
+it is difficult to test undoing commit
+i havenot been success yet.
